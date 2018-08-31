@@ -1,2 +1,3 @@
-# education_and_prestige
-An analysis of education quality vs prestige.
+# College Selection Analyses
+
+Understanding the data behind selecting a university.
