@@ -1,3 +1,3 @@
 # College Selection Analyses
 
-Understanding the data behind selecting a university.
+Understanding the data behind selecting a college or university.
